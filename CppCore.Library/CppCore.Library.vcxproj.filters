@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Array.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="BitConverter.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Console.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Converter.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Envoirment.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="EventArgs.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Exception.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="IndexOutOfRangeException.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="OperatingSystem.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="String.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Tuple.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Type.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Uri.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="UriBuilder.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector.cpp">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ArgumentException.cpp" />
+    <ClCompile Include="UriParser.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Array.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="BitConverter.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Console.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Convert.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Envoirment.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="EventArgs.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Exception.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="IndexOutOfRangeException.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="OperatingSystem.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Tuple.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Type.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Uri.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="UriBuilder.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ArgumentException.h" />
+    <ClInclude Include="UriParser.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{cb2fc179-59b8-47b9-9612-c53c28ee77e4}</UniqueIdentifier>
+      <Extensions>*.h</Extensions>
+    </Filter>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{0ae19a68-a5e7-4854-891e-100e3e52e7f8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

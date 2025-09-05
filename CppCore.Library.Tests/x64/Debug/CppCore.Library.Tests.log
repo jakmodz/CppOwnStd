@@ -1,0 +1,5 @@
+﻿  StringTest.cpp
+C:\Users\123ja\Desktop\CppCore\CppCore.Library.Tests\StringTest.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CppCore.Library.Tests.vcxproj -> C:\Users\123ja\Desktop\CppCore\x64\Debug\CppCore.Library.Tests.dll
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

@@ -1,0 +1,43 @@
+Activator<br />
+ArgumentException<br />
+ArgumentNullException<br />
+ArgumentOutOfRangeException<br />
+ArithmeticException<br />
+Array<br />
+BitConverter<br />
+Console<br />
+Convert<br />
+DateTime<br />
+Delegate<br />
+DivideByZeroException<br />
+Environment<br />
+EventArgs<br />
+Exception<br />
+FormatException<br />
+IndexOutOfRangeException<br />
+InvalidOperationException<br />
+Math<br />
+MulticastDelegate<br />
+NotImplementedException<br />
+NotSupportedException<br />
+NullReferenceException<br />
+Object<br />
+OperatingSystem<br />
+Random<br />
+String<br />
+TimeZone<br />
+Tuple<T1>	<br />
+Tuple<T1,T2>	<br />
+Tuple<T1,T2,T3>	<br />
+Tuple<T1,T2,T3,T4>	<br />
+Tuple<T1,T2,T3,T4,T5><br />
+Tuple<T1,T2,T3,T4,T5,T6>	<br />
+Tuple<T1,T2,T3,T4,T5,T6,T7>	<br />
+Tuple<T1,T2,T3,T4,T5,T6,T7,TRest>	<br />
+Type<br />
+Uri<br />
+UriBuilder<br />
+UriFormatException<br />
+UriParser<br />
+UriTypeConverter<br />
+<br />
