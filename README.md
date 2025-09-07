@@ -1,43 +1,29 @@
-#Activator<br />
-#ArgumentException<br />
-#ArgumentNullException<br />
-#ArgumentOutOfRangeException<br />
-#ArithmeticException<br />
-#Array<br />
-#BitConverter<br />
-#Console<br />
-#Convert<br />
-#DateTime<br />
-#Delegate<br />
-#DivideByZeroException<br />
-#Environment<br />
-#EventArgs<br />
-#Exception<br />
-#FormatException<br />
-#IndexOutOfRangeException<br />
-#InvalidOperationException<br />
-#Math<br />
-#ZulticastDelegate<br />
-#NotImplementedException<br />
-#NotSupportedException<br />
-#NullReferenceException<br />
-#Object<br />
-#OperatingSystem<br />
-#Random<br />
-#String<br />
-#TimeZone<br />
-#Tuple<T1>	<br />
-#Tuple<T1,T2>	<br />
-#Tuple<T1,T2,T3>	<br />
-#Tuple<T1,T2,T3,T4>	<br />
-#Tuple<T1,T2,T3,T4,T5><br />
-#Tuple<T1,T2,T3,T4,T5,T6>	<br />
-#Tuple<T1,T2,T3,T4,T5,T6,T7>	<br />
-#Tuple<T1,T2,T3,T4,T5,T6,T7,TRest>	<br />
-#Type<br />
-#Uri<br />
-#UriBuilder<br />
-#UriFormatException<br />
-#UriParser<br />
-#UriTypeConverter<br />
-<br />
+# CppCore.Library
+
+A C++ core library providing essential types and utilities inspired by .NET and other modern frameworks. The library includes classes for data structures, exceptions, type conversion, console I/O, and more.
+
+## Features
+
+- **Data Structures**: `Array`, `Vector`, `Tuple`
+- **Type Conversion**: `BitConverter`, `Convert`
+- **String Handling**: `String`
+- **Exception Hierarchy**: `Exception`, `ArgumentException`, `IndexOutOfRangeException`, and others
+- **Console Utilities**: `Console` for input/output and cursor control
+- **Environment Info**: `Envoirment` for OS and environment variables
+- **Math Utilities**: `Math`
+- **Date and Time**: `DateTime`, `TimeZone`
+- **Random Number Generation**: `Random`
+- **Delegates and Events**: `Delegate`, `EventArgs`
+- **URI Handling**: `Uri`, `UriBuilder`, `UriParser`
+
+## Getting Started
+
+1. Clone the repository.
+2. Open the project in CLion or your preferred C++ IDE.
+3. Build the project using CMake or your IDE's build system.
+
+## Example Usage
+
+```cpp
+Array<int, 5> arr = {1, 2, 3, 4, 5};
+Console::WriteLine(Convert::Int32ToString(arr[0]));
